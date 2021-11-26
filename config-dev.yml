@@ -1,2 +1,5 @@
-config:
-  info: master branch 111
+spring:
+  application:
+    name: config-client
+  profiles:
+    actice: test
