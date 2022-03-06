@@ -3,3 +3,5 @@ spring:
     name: config-client3355
   profiles:
     actice: test
+config:
+  info: master branch,springcloud-config/config-dev.yml version=7
